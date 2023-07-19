@@ -1,4 +1,4 @@
 # PriorityCareAdmissions
-A Priority Care Admission that triages patients in a queue
+A Priority Care Admission triages patients from a backend system to organize incoming and outgoing patients in a queue. Operators of this program can add patients, remove patients, see patients, give reports of all patients, etc. 
 
-Run the program to receive instructions on how to operate the queue.
+Please run the program to explore other functions and features of this project.
